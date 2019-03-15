@@ -1,0 +1,11 @@
+c:\users\lfrit\source\repos\MidiConsole\MidiConsole\bin\Debug\netcoreapp2.1\MidiConsole.deps.json
+c:\users\lfrit\source\repos\MidiConsole\MidiConsole\bin\Debug\netcoreapp2.1\MidiConsole.runtimeconfig.json
+c:\users\lfrit\source\repos\MidiConsole\MidiConsole\bin\Debug\netcoreapp2.1\MidiConsole.runtimeconfig.dev.json
+c:\users\lfrit\source\repos\MidiConsole\MidiConsole\bin\Debug\netcoreapp2.1\MidiConsole.dll
+c:\users\lfrit\source\repos\MidiConsole\MidiConsole\obj\Debug\netcoreapp2.1\MidiConsole.csprojAssemblyReference.cache
+c:\users\lfrit\source\repos\MidiConsole\MidiConsole\obj\Debug\netcoreapp2.1\MidiConsole.csproj.CoreCompileInputs.cache
+c:\users\lfrit\source\repos\MidiConsole\MidiConsole\obj\Debug\netcoreapp2.1\MidiConsole.AssemblyInfoInputs.cache
+c:\users\lfrit\source\repos\MidiConsole\MidiConsole\obj\Debug\netcoreapp2.1\MidiConsole.AssemblyInfo.cs
+c:\users\lfrit\source\repos\MidiConsole\MidiConsole\bin\Debug\netcoreapp2.1\MidiConsole.pdb
+c:\users\lfrit\source\repos\MidiConsole\MidiConsole\obj\Debug\netcoreapp2.1\MidiConsole.dll
+c:\users\lfrit\source\repos\MidiConsole\MidiConsole\obj\Debug\netcoreapp2.1\MidiConsole.pdb
